@@ -1,0 +1,26 @@
+{
+  "agent_type": "BaseAgentCrypto",
+  "market": "crypto",
+  "date_range": {
+    "init_date": "2025-11-01",
+    "end_date": "2025-11-15"
+  },
+  "models": [
+    {
+      "name": "claude-3.7-sonnet-risk",
+      "basemodel": "claude-3-7-sonnet",
+      "signature": "claude-3.7-sonnet-risk",
+      "enabled": true
+    }
+  ],
+  "agent_config": {
+    "max_steps": 30,
+    "max_retries": 3,
+    "base_delay": 1.0,
+    "initial_cash": 50000.0,
+    "prompt_variant": "risk"
+  },
+  "log_config": {
+    "log_path": "./data/agent_data_crypto"
+  }
+}

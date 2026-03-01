@@ -1,0 +1,5 @@
+Agent,CR (%),Sortino Ratio,Volatility (%),MDD (%),Win Rate (%),Initial Value,Final Value
+Claude-3.7-Sonnet (Paper Original),-15.3,-2.27,32.18,-16.93,51.4,50000.0,42348.32
+Claude-3.7-Sonnet (Reproduction),-17.65,-3.11,36.08,-19.34,47.3,50000.0,41173.87
+Claude-Sonnet-4.6 (Model Change),-16.25,-2.71,34.45,-17.76,54.4,50000.0,41876.72
+Claude-3.7-Sonnet (Risk Prompt),-13.68,-4.96,37.44,-15.15,51.7,50000.0,43161.18
