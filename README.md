@@ -9,6 +9,7 @@
 |---------------|-------------|
 | `HW1/` | Homework 1 |
 | `HW2/` | Homework 2 |
+| `HW4/` | Homework 4 |
 | `Individual_Project/` | Individual Project — AI-Trader Reproducibility Study |
 | `Individual_Project/FTEC5660_Individual_project_Report_WuSitong_1155253147.pdf` | Project Report |
 | `Individual_Project/AI-Trader/` | Source code, experiment configs, results, and charts |
